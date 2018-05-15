@@ -16,7 +16,7 @@
 * 主要流程：`get_host_path`(获得hosts文件正确路径)->`get_path`(获得dx_ip/lt_ip文件的路径)->`log_file`(创建logs目录文件)->`copy_file`(备份文件)->`read_ip read_host`（读取ip文件与hosts文件）->`write_host`（写入hosts文件）->`replace_ip`(更换hosts文件ip)->`pingIP`(ping检测IP)->`main`(主程序入口)
 * Ping时间间隔说明：每隔5m ping一次IP
 * 日志说明：日志只是简单的记录ping/notping（ping成功与ping不成功的记录）
-* 生成exe文件说明：最后利用`pyInstaller -F -w -c`生成.exe应用程序文件
+* 生成exe文件说明：最后利用`pyinstaller.exe -F -w -c file_path`生成.exe应用程序文件
 * 界面说明：控制台都会有良好的界面提示效果，即使出错也不会秒退窗口，会提示按回车退出
 
 ## 三、补充说明

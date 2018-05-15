@@ -1,0 +1,5 @@
+#dx_ip
+116.52.145.218　www.jh-food.cn     #地州默认
+14.204.54.134  www.kmjhbw.com    #市区默认
+
+

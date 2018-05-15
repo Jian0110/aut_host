@@ -1,0 +1,3 @@
+#lt_ip
+14.204.54.134　www.jh-food.cn     #市区默认
+116.52.145.218  www.kmjhbw.com    #地州默认

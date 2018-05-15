@@ -1,3 +1,3 @@
 #lt_ip
 xxx.xxx.xxx(ip) DNSÓòÃû
-#115.239.210.27 www.baidu.com
+#±ÈÈç115.239.210.27 www.baidu.com
